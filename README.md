@@ -59,23 +59,13 @@
 
 ---
 
-## 💻 Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [Weather Dashboard](https://github.com/utkarshwalia/weather-dashboard) | Beautiful weather app with 5-day forecast | HTML, CSS, JavaScript, wttr.in API |
-| [Learning Terraform](https://github.com/utkarshwalia/learning_terraform) | IaC with Terraform | Terraform, AWS |
-| [DevOps Tasks](https://github.com/utkarshwalia/devops-Sem3) | DevOps exercises & projects | Docker, Jenkins |
-
----
-
 ## 📫 Connect with Me
 
 <p align="center">
   <a href="https://github.com/utkarshwalia">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/utkarshwalia">
+  <a href="https://www.linkedin.com/in/utkarsh-walia-016389334/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
